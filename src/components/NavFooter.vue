@@ -1,10 +1,10 @@
 <template>
-  <div class="index">
-    order-list
+  <div>
+    Footer
   </div>
 </template>
 <script>
 export default {
-  name: 'order-list'
+  name: 'nav-footer'
 }
 </script>
